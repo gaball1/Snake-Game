@@ -1,6 +1,6 @@
 # Simple Snake App  
 
-**Simple Snake App** is a classic snake game developed using Unity, with its core game logic implemented in C++. This project demonstrates the integration of C++ with Unity to create a simple yet engaging game.  
+**Simple Snake App** is a classic snake game developed using Unity, with its core game logic implemented in C#. This project demonstrates the integration of C++ with Unity to create a simple yet engaging game.  
 
 ## Features  
 
@@ -8,12 +8,12 @@
 - The snake grows as it consumes food, increasing the challenge.  
 - Minimalistic and clean design for a focused gameplay experience.  
 - Cross-platform compatibility via Unity.  
-- A perfect example of combining Unity’s visual tools with C++'s performance.  
+- A perfect example of combining Unity’s visual tools with C#'s performance.  
 
 ## Technologies Used  
 
 - **Unity** for game development and rendering.  
-- **C++** for implementing game logic and mechanics.  
+- **C#** for implementing game logic and mechanics.  
 
 ## Installation  
 
@@ -23,7 +23,7 @@
     ```
 2. Open the project in Unity.  
 
-3. Ensure you have a C++ development environment set up (e.g., Visual Studio with C++ tools).  
+3. Ensure you have a C# development environment set up (e.g., Visual Studio with C# tools).  
 
 4. Build and run the game in Unity:  
     - Go to **File > Build Settings** and choose your target platform.  
