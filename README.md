@@ -1,6 +1,6 @@
 # Simple Snake App  
 
-**Simple Snake App** is a classic snake game developed using Unity, with its core game logic implemented in C#. This project demonstrates the integration of C++ with Unity to create a simple yet engaging game.  
+**Simple Snake App** is a classic snake game developed using Unity, with its core game logic implemented in C#. This project demonstrates the integration of C# with Unity to create a simple yet engaging game.  
 
 ## Features  
 
